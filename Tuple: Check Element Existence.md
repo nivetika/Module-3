@@ -12,9 +12,9 @@ To write a Python program that checks if the element `'r'` and the element `5` e
 ## 🧾 Program
 
 ```
-tuplex = ("S", 89, "R", "e", "s", "o", "u", "r", "c", "e","D")
-print('r' in tuplex)
-print(5 in tuplex)
+x = ("S", 89, "R", "e", "s", "o", "u", "r", "c", "e","D")
+print('r' in x)
+print(5 in x)
 ```
 
 ## Output
